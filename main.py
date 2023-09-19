@@ -11,6 +11,8 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm: task 1')
+    print_hi('PyCharm: task 1 & task 3')
+    print("Task 3 started..")
+    print("Task 3 finished")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
