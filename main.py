@@ -16,4 +16,8 @@ if __name__ == '__main__':
     print("Task 3 started..")
     print("Task 3 finished")
 
+    print("New task 1")
+    print("New task 1 still in work...")
+    print("New task 1 is finished.")
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
