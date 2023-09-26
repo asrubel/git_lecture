@@ -20,6 +20,6 @@ if __name__ == '__main__':
     print("New task 1 still in work...")
     print("New task 1 is finished.")
 
-    print("New tasks are in work: 2")
+    print("New tasks are in progress: 2, 3")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
